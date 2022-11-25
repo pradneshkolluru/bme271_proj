@@ -1,0 +1,5 @@
+,raw,1,2,3,4,5
+squirrel,./Drawings/squirrel.jpeg,,,,,
+bird,./Drawings/bird.jpeg,,,,,
+elephant,./Drawings/elephant.jpeg,./Processed/elephant/1.jpg,./Processed/elephant/2.jpg,./Processed/elephant/3.jpg,,
+eagle,./Drawings/eagle.jpeg,./Processed/eagle/1.jpg,./Processed/eagle/2.jpg,./Processed/eagle/3.jpg,./Processed/eagle/4.jpg,./Processed/eagle/5.jpg
